@@ -44,3 +44,7 @@ This project helped me understand how Excel can turn employee records into meani
 ## Project File
 
 The Excel workbook includes the employee dataset, analysis summaries, KPI calculations, and dashboard charts.
+
+## Dashboard Preview
+
+![HR Analytics Dashboard](HR_Dashboard_SS.png)
